@@ -227,6 +227,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 ## Books
 *Fantastic and must-read books about object-oriented programming, analysis, design and related concepts.*
 
+* [OOP Demystified] (https://books.google.com/books?id=kndzOrby8KAC&redir_esc=y)
 * [PHP Objects, Patterns, and Practices](http://books.google.com/books?id=1JkQAwAAQBAJ&hl=pt-BR&source=gbs_book_other_versions)
 * [Head First Design Patterns](http://books.google.com/books/about/Head_First_Design_Patterns.html?id=LjJcCnNf92kC&redir_esc=y)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](http://books.google.com/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&redir_esc=y)
