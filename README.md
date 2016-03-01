@@ -229,7 +229,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 
 * [Object-Oriented PHP: Concepts, Techniques, and Code] (https://books.google.com/books?id=7IVIiQLvBW8C&redir_esc=y)
 * [OOP Demystified] (https://books.google.com/books?id=kndzOrby8KAC&redir_esc=y)
-* [PHP Objects, Patterns, and Practices](http://books.google.com/books?id=1JkQAwAAQBAJ&hl=pt-BR&source=gbs_book_other_versions)
+* [PHP Objects, Patterns, and Practices](https://books.google.com/books?id=1JkQAwAAQBAJ&redir_esc=y)
 * [Head First Design Patterns](http://books.google.com/books/about/Head_First_Design_Patterns.html?id=LjJcCnNf92kC&redir_esc=y)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](http://books.google.com/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&redir_esc=y)
 * [Head First Object-Oriented Analysis and Design](http://books.google.com/books/about/Head_First_Object_Oriented_Analysis_and.html?id=-QpmamSKl_EC&redir_esc=y)
